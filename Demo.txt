@@ -1,2 +1,10 @@
 This is a demo update about life 
 -Written on 3rd Feb 2026-
+
+-----
+git status
+git add .
+git commit -m "your message"
+git push
+
+----
